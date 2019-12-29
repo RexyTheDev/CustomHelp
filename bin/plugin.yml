@@ -1,0 +1,7 @@
+author: Rexy
+name: CustomHelp
+main: me.Rexy.CustomHelp.Main
+version: BETA 1.0
+
+commands:
+  Help:
